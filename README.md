@@ -8,21 +8,21 @@ This project demonstrates practical data analyst skills including data cleaning,
 
 The Crop Yield & Productivity Analysis project transforms raw agricultural data into an interactive Excel dashboard that helps users understand crop production and productivity patterns.
 
-The dashboard is designed to answer questions such as:
+*The dashboard is designed to answer questions such as:
 
-Which states/regions have the highest total crop yield?
+*Which states/regions have the highest total crop yield?
 
-Which crops contribute the most to overall production?
+* Which crops contribute the most to overall production?
 
-How does crop yield change over time?
+* How does crop yield change over time?
 
-Which crop categories show better productivity?
+* Which crop categories show better productivity?
 
-Which regions or districts perform better?
+* Which regions or districts perform better?
 
-How do fertilizer usage and agricultural inputs relate to yield?
+* How do fertilizer usage and agricultural inputs relate to yield?
 
-Which crops have the strongest productivity performance?
+* Which crops have the strongest productivity performance?
 
 The project follows a practical data-analysis workflow from raw dataset → cleaning → transformation → analysis → visualization → dashboard.
 
@@ -32,25 +32,25 @@ The main purpose is to demonstrate how raw agricultural data can be converted in
 
 Key objectives
 
-Clean and standardize agricultural data.
+* Clean and standardize agricultural data.
 
-Handle missing and duplicate records.
+* Handle missing and duplicate records.
 
-Standardize category/text fields.
+* Standardize category/text fields.
 
-Validate numerical and date fields.
+* Validate numerical and date fields.
 
-Create useful calculated columns.
+* Create useful calculated columns.
 
-Analyze crop yield and productivity.
+* Analyze crop yield and productivity.
 
-Compare performance across states, districts, and crops.
+* Compare performance across states, districts, and crops.
 
-Identify trends over time.
+* Identify trends over time.
 
-Build an interactive Excel dashboard.
+* Build an interactive Excel dashboard.
 
-Present insights in a clear and professional format.
+* Present insights in a clear and professional format.
 
 🔄 Project Workflow
 
@@ -94,21 +94,21 @@ Critical fields were checked for blank or missing values.
 
 Examples:
 
-Crop
+* Crop
 
-Fertilizer Used
+* Fertilizer Used
 
-State
+* State
 
-District
+* District
 
-Area
+* Area
 
-Yield
+* Yield
 
-Date/Year
+* Date/Year
 
-Production-related fields
+* Production-related fields
 
 3. Text Standardization
 
@@ -116,13 +116,13 @@ Category-like columns were standardized for consistent analysis.
 
 Columns included:
 
-Crop
+* Crop
 
-Fertilizer Used
+* Fertilizer Used
 
-District
+* District
 
-State
+*State
 
 Example Excel formula:
 
@@ -142,13 +142,13 @@ Rice
 
 Numerical columns were checked for:
 
-Blank values
+* Blank values
 
-Invalid values
+* Invalid values
 
-Zero values where inappropriate
+* Zero values where inappropriate
 
-Inconsistent formats
+* Inconsistent formats
 
 5. Date / Time Preparation
 
@@ -207,19 +207,19 @@ Compares agricultural performance across crop/category groups.
 
 Slicers/filters allow the user to dynamically explore the dashboard based on available dimensions such as:
 
-State
+* State
 
-District
+* District
 
-Crop
+* Crop
 
-Fertilizer
+* Fertilizer
 
-Year
+* Year
 
-Month
+* Month
 
-Category
+* Category
 
 🛠️ Tools & Technologies Used
 
@@ -227,25 +227,23 @@ Microsoft Excel
 
 Used for the complete data-analysis workflow:
 
-Data Cleaning
+* Data Cleaning
 
-Data Validation
+* Data Validation
 
-Excel Formulas
+* Excel Formulas
 
-Sorting & Filtering
+* Sorting & Filtering
 
-Conditional Formatting
+* Conditional Formatting
 
-PivotTables
+* PivotTables
 
-PivotCharts
+* PivotCharts
 
-Slicers
+* Slicers
 
-Dashboard Development
-
-KPI Analysis
+* Dashboard Development
 
 Excel Functions Used
 
@@ -285,55 +283,53 @@ This project showcases the following practical skills:
 
 Data Cleaning
 
-Duplicate detection
+* Duplicate detection
 
-Missing-value checking
+* Missing-value checking
 
-Text standardization
+* Text standardization
 
-Data validation
+* Data validation
 
-Category consistency
+* Category consistency
 
 Data Transformation
 
-Creating calculated columns
+* Creating calculated columns
 
-Creating productivity metrics
+* Creating productivity metrics
 
-Preparing fields for analysis
+* Preparing fields for analysis
 
-Converting raw data into analysis-ready data
+* Converting raw data into analysis-ready data
 
 Data Analysis
 
-Aggregation
+* Aggregation
 
-Trend analysis
+* Trend analysis
 
-Comparative analysis
+* Comparative analysis
 
-Regional analysis
+* Regional analysis
 
-Crop-level analysis
+* Crop-level analysis
 
-Productivity analysis
+* Productivity analysis
 
 Data Visualization
 
-KPI Cards
+* Bar Charts
 
-Bar Charts
+* Column Charts
 
-Column Charts
+* Line Charts
 
-Line Charts
+* Trend Charts
 
-Trend Charts
+* Interactive Slicers
 
-Interactive Slicers
-
-Dashboard Layout
+* Dashboard Layout
 
 Business / Analytical Thinking
 
@@ -345,19 +341,19 @@ When presenting this project, focus on insights rather than only showing charts.
 
 Examples:
 
-Identify the highest-yielding states or regions.
+* Identify the highest-yielding states or regions.
 
-Identify the top-performing crops.
+* Identify the top-performing crops.
 
-Compare crop productivity across regions.
+* Compare crop productivity across regions.
 
-Identify periods with higher or lower yield.
+* Identify periods with higher or lower yield.
 
-Compare crop categories.
+* Compare crop categories.
 
-Identify unusual or low-performing observations.
+* Identify unusual or low-performing observations.
 
-Analyze whether fertilizer-related categories show differences in productivity.
+* Analyze whether fertilizer-related categories show differences in productivity.
 
 Exact findings should be reported from the final cleaned dataset and dashboard values rather than assumed in advance.
 
@@ -365,17 +361,15 @@ Exact findings should be reported from the final cleaned dataset and dashboard v
 
 A screen recording of the Excel dashboard is included as a project demonstration.
 
-The recording shows:
+* The recording shows:
 
-Dashboard overview
+* Dashboard overview
 
-KPI/summary sections
+* Charts and visualizations
 
-Charts and visualizations
+* Interactive filters/slicers
 
-Interactive filters/slicers
-
-Raw data and analysis workflow
+* Raw data and analysis workflow
 
 📁 Suggested Repository Structure
 
@@ -406,67 +400,67 @@ Power BI
 
 The cleaned dataset can be imported into Power BI to create:
 
-Interactive dashboards
+* Interactive dashboards
 
-Drill-through reports
+* Drill-through reports
 
-Advanced DAX measures
+* Advanced DAX measures
 
-Map visualizations
+* Map visualizations
 
-Dynamic KPIs
+* Dynamic KPIs
 
 SQL
 
 The dataset can also be loaded into MySQL to demonstrate:
 
-Database creation
+* Database creation
 
-Data cleaning with SQL
+* Data cleaning with SQL
 
-GROUP BY analysis
+* GROUP BY analysis
 
-JOIN operations
+* JOIN operations
 
-Subqueries
+* Subqueries
 
-CTEs
+* CTEs
 
-Window functions
+* Window functions
 
 Python
 
 Python can be used for:
 
-Pandas-based data cleaning
+* Pandas-based data cleaning
 
-Exploratory Data Analysis
+* Exploratory Data Analysis
 
-Matplotlib visualizations
+* Matplotlib visualizations
 
-Statistical analysis
+* Statistical analysis
 
-Crop-yield prediction
+* Crop-yield prediction
 
 Machine Learning
 
 A future version could predict crop yield using features such as:
 
-Crop
+* Crop
 
-State
+* State
 
-District
+* District
 
-Area
+* Area
 
-Fertilizer usage
+* Fertilizer usage
 
-Rainfall
+* Rainfall
 
-Temperature
+* Temperature
 
-Historical yield
+* Historical yield
 
 📌 Portfolio Value
 
@@ -478,25 +472,25 @@ It is suitable as an entry-level Data Analyst / Excel Data Analyst portfolio pro
 
 👨‍💻 Author
 
-Vijay Kumar
+Gembali Vijay Kumar
 
 Aspiring Data Analyst
 
 Skills
 
-Microsoft Excel
+* Microsoft Excel
 
-SQL
+* SQL
 
-Python
+* Python
 
-Power BI
+* Power BI
 
-Data Cleaning
+* Data Cleaning
 
-Data Visualization
+* Data Visualization
 
-Data Analysis
+* Data Analysis
 
 ⭐ If you find this project useful
 
