@@ -1,4 +1,5 @@
-# Crop-Yield-Productivity-Analysis🌾 
+🌾 Crop Yield & Productivity Analysis
+
 An end-to-end Microsoft Excel Data Analytics project focused on analyzing agricultural crop yield, productivity, regional performance, fertilizer usage, and time-based trends.
 
 This project demonstrates practical data analyst skills including data cleaning, data preparation, Excel formulas, PivotTables, PivotCharts, slicers, KPI analysis, and dashboard design.
@@ -244,6 +245,8 @@ Slicers
 
 Dashboard Development
 
+KPI Analysis
+
 Excel Functions Used
 
 Examples include:
@@ -270,6 +273,11 @@ Kaggle Dataset: Comprehensive Tamil Nadu Agriculture Dataset
 
 The dataset contains agricultural information useful for studying crop yield, productivity, rainfall, land usage, fertilizer use, districts, crops, and agricultural trends.
 
+Kaggle source:
+
+https://www.kaggle.com/datasets/kiruthikas005/comprehensive-tamil-nadu-agriculture-dataset
+
+Note: If your downloaded dataset came from a different Kaggle page, replace the Kaggle link above with the exact dataset URL you used.
 
 🧠 Data Analyst Skills Demonstrated
 
