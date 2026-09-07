@@ -244,8 +244,6 @@ Slicers
 
 Dashboard Development
 
-KPI Analysis
-
 Excel Functions Used
 
 Examples include:
