@@ -272,11 +272,6 @@ Kaggle Dataset: Comprehensive Tamil Nadu Agriculture Dataset
 
 The dataset contains agricultural information useful for studying crop yield, productivity, rainfall, land usage, fertilizer use, districts, crops, and agricultural trends.
 
-Kaggle source:
-
-https://www.kaggle.com/datasets/kiruthikas005/comprehensive-tamil-nadu-agriculture-dataset
-
-Note: If your downloaded dataset came from a different Kaggle page, replace the Kaggle link above with the exact dataset URL you used.
 
 🧠 Data Analyst Skills Demonstrated
 
